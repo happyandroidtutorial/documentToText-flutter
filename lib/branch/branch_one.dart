@@ -11,7 +11,7 @@ class _BranchOneState extends State<BranchOne> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('branc testing '),),
+      appBar: AppBar(title: Text('branch testing '),),
     );
   }
 }
